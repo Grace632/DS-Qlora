@@ -1,0 +1,29 @@
+{
+  "evidence_type": "Manual transcription of terminal outputs observed during this session; not a recovered complete Trainer log",
+  "training_configuration": "configs/qlora_formal.yaml",
+  "expected_optimizer_steps": 18,
+  "last_explicitly_observed_optimizer_step": 15,
+  "observed_validation_losses": [
+    {"epoch": 1, "loss": 3.5424, "precision": "rounded terminal record retained in session handoff"},
+    {"epoch": 2, "loss": 3.2403368949890137, "precision": "terminal JSON value"}
+  ],
+  "observed_training_log": {"step": 12, "epoch": 2.0, "loss": 2.7993},
+  "observed_update_audit": {
+    "step": 15,
+    "grad_norm_after_clip": 0.9999993443489075,
+    "max_parameter_delta": 0.00001830095425248146,
+    "allocated_mib": 8414.3
+  },
+  "missing": ["complete 18-step audit", "final epoch validation loss", "total training time", "peak training memory"],
+  "reload_command": "python src/test_model.py --adapter checkpoints/adapter_formal --max-new-tokens 64",
+  "reload": {
+    "exit_code": 0,
+    "nf4_layers": 5181,
+    "verified_adapter_tensors": 216,
+    "exact_round_trip": true,
+    "elapsed_seconds": 31.64,
+    "peak_allocated_mib": 11248.4,
+    "peak_reserved_mib": 11580.0,
+    "answer": " 面对学习和生活中的压力，可以采取以下几种方法来应对：\n\n1. 制定合理的学习计划：合理安排时间，确保有足够的时间用于学习，同时也要留出时间进行休息和娱乐。\n\n2. 保持积极的心态：保持乐观的态度，相信自己能够克服困难，"
+  }
+}

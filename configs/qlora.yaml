@@ -1,0 +1,59 @@
+### model
+model_name_or_path: models/DeepSeek-V2-Lite-Chat
+trust_remote_code: false
+quantization_method: bnb
+quantization_bit: 4
+quantization_type: nf4
+double_quantization: true
+flash_attn: disabled
+upcast_layernorm: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: q_proj,kv_a_proj_with_mqa,kv_b_proj,o_proj
+lora_rank: 8
+lora_alpha: 16
+lora_dropout: 0.05
+
+### dataset
+dataset: buddha_qa_train
+dataset_dir: data/sft
+template: deepseek_v2_lite_official
+cutoff_len: 512
+overwrite_cache: false
+preprocessing_num_workers: 1
+ignore_pad_token_for_loss: true
+
+### output
+output_dir: checkpoints/adapter
+overwrite_output_dir: false
+save_strategy: 'no'
+logging_steps: 1
+logging_first_step: true
+report_to: none
+plot_loss: false
+include_num_input_tokens_seen: true
+save_only_model: true
+
+### optimization: 10 actual optimizer steps, 80 microbatches
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 8
+learning_rate: 0.0001
+num_train_epochs: 1.0
+max_steps: 10
+lr_scheduler_type: cosine
+warmup_ratio: 0.0
+optim: paged_adamw_8bit
+bf16: true
+gradient_checkpointing: true
+gradient_checkpointing_kwargs:
+  use_reentrant: false
+max_grad_norm: 1.0
+seed: 42
+dataloader_num_workers: 0
+dataloader_pin_memory: false
+disable_tqdm: true
+logging_nan_inf_filter: false
+log_level: warning

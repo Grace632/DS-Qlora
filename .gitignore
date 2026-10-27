@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local model downloads and generated corpora
+/models/
+/data/raw/cbeta/*.txt
+/data/processed/
+/buddha_sources_stage2.tar.gz
+
+# Logs may contain machine or connection details
+/outputs/logs/
+/outputs/evaluation/2024211891.json
+
+# Common local files
+.env
+.DS_Store
+Thumbs.db

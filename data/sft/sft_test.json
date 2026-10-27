@@ -1,0 +1,212 @@
+[
+  {
+    "id": "T0374-s29-q1",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_006.txt",
+    "source_sha256": "d38acf1e8a4f9ed981020fd55c79f3607a05412d49b202aeded368a7ae9bd2b2",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 41,
+    "source_passage": "迦葉菩薩復白佛言：「世尊！善哉，善哉。如來所說真實不虛，我當頂受。譬如金剛，珍寶異物，如佛所說，是諸比丘當依四法。何等為四？依法不依人，依義不依語，依智不依識，依了義經不依不了義經。如是四法，應當證知非四種人。」",
+    "chunk_ids": [
+      "T0374_006-c0018"
+    ],
+    "quote": "依法不依人，依義不依語",
+    "topic": "学习压力",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "判断一段说法是否可靠，应注意什么？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「依法不依人，依義不依語」\n【現代生活參考】检查它依据的材料和论证含义，不只看说话者身份或漂亮措辞。此句在佛教经典中有明确宗教语境，现实应用需结合领域标准。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s29-q2",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_006.txt",
+    "source_sha256": "d38acf1e8a4f9ed981020fd55c79f3607a05412d49b202aeded368a7ae9bd2b2",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 41,
+    "source_passage": "迦葉菩薩復白佛言：「世尊！善哉，善哉。如來所說真實不虛，我當頂受。譬如金剛，珍寶異物，如佛所說，是諸比丘當依四法。何等為四？依法不依人，依義不依語，依智不依識，依了義經不依不了義經。如是四法，應當證知非四種人。」",
+    "chunk_ids": [
+      "T0374_006-c0018"
+    ],
+    "quote": "依法不依人，依義不依語",
+    "topic": "学习压力",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "权威人士的说法还需要核实吗？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「依法不依人，依義不依語」\n【現代生活參考】需要。尊重专业同时核对证据、适用范围和其他可靠来源。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s30-q1",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_006.txt",
+    "source_sha256": "d38acf1e8a4f9ed981020fd55c79f3607a05412d49b202aeded368a7ae9bd2b2",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 21,
+    "source_passage": "爾時佛讚迦葉：「善哉，善哉！善男子！汝今善能問如是義。善男子！若有眾生，於熙連河沙等諸佛所發菩提心，乃能於是惡世受持如是經典，不生誹謗。善男子！若有能於一恒河沙等諸佛世尊發菩提心，然後乃能於惡世中，不謗是法，愛樂是典，不能為人分別廣說。善男子！若有眾生於二恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，正解信樂，受持讀誦，亦不能為他人廣說。若有眾生於三恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，雖為他說，未解深義。若有眾生於四恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中一分之義，雖復演說亦不具足。若有眾生於五恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，廣為人說十六分中八分之義。若有眾生於六恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中十二分義。若有眾生於七恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中十四分義。若有眾生於八恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，亦勸他人令得書寫，自能聽受，復勸他人令得聽受、讀誦通利，擁護堅持憐愍世間諸眾生故，供養是經，亦勸他人令其供養恭敬尊重讀誦禮拜，亦復如是，具足能解，盡其義味，所謂如來常住不變，畢竟安樂，廣說眾生悉有佛性，善知如來所有法藏。供養如是諸佛等已，建立如是無上正法，受持擁護，若有始發阿耨多羅三藐三菩提心，當知是人未來之世，必能建立如是正法，受持擁護。是故汝今不應不知，未來世中護法之人。何以故？是發心者於未來世，必能護持無上正法。",
+    "chunk_ids": [
+      "T0374_006-c0008",
+      "T0374_006-c0009"
+    ],
+    "quote": "廣說眾生悉有佛性",
+    "topic": "面对失败和挫折",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "同伴一次比赛失利，怎样避免据此否定他的能力？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「廣說眾生悉有佛性」\n【現代生活參考】把当前表现与人的全部潜力区分开，提供具体反馈和成长机会；同时保持对结果的现实判断。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s30-q2",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_006.txt",
+    "source_sha256": "d38acf1e8a4f9ed981020fd55c79f3607a05412d49b202aeded368a7ae9bd2b2",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 21,
+    "source_passage": "爾時佛讚迦葉：「善哉，善哉！善男子！汝今善能問如是義。善男子！若有眾生，於熙連河沙等諸佛所發菩提心，乃能於是惡世受持如是經典，不生誹謗。善男子！若有能於一恒河沙等諸佛世尊發菩提心，然後乃能於惡世中，不謗是法，愛樂是典，不能為人分別廣說。善男子！若有眾生於二恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，正解信樂，受持讀誦，亦不能為他人廣說。若有眾生於三恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，雖為他說，未解深義。若有眾生於四恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中一分之義，雖復演說亦不具足。若有眾生於五恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，廣為人說十六分中八分之義。若有眾生於六恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中十二分義。若有眾生於七恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，為他廣說十六分中十四分義。若有眾生於八恒河沙等佛所發菩提心，然後乃能於惡世中不謗是法，受持讀誦書寫經卷，亦勸他人令得書寫，自能聽受，復勸他人令得聽受、讀誦通利，擁護堅持憐愍世間諸眾生故，供養是經，亦勸他人令其供養恭敬尊重讀誦禮拜，亦復如是，具足能解，盡其義味，所謂如來常住不變，畢竟安樂，廣說眾生悉有佛性，善知如來所有法藏。供養如是諸佛等已，建立如是無上正法，受持擁護，若有始發阿耨多羅三藐三菩提心，當知是人未來之世，必能建立如是正法，受持擁護。是故汝今不應不知，未來世中護法之人。何以故？是發心者於未來世，必能護持無上正法。",
+    "chunk_ids": [
+      "T0374_006-c0008",
+      "T0374_006-c0009"
+    ],
+    "quote": "廣說眾生悉有佛性",
+    "topic": "面对失败和挫折",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "怎样鼓励经历失败的朋友，又不保证他一定成功？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「廣說眾生悉有佛性」\n【現代生活參考】指出可观察的进步和下一步练习，不保证必然成功。该经句属于佛教教义，应用是现代鼓励方式的类比。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s31-q1",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_015.txt",
+    "source_sha256": "342a869619667dc50da51694bb7c3430fd338b2692a571a3c1a07cbe32d950e5",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 32,
+    "source_passage": "「善男子！以難成故，不名大慈。何以故？久於過去無量劫中，多集煩惱，未修善法，是故不能於一日中，調伏其心。善男子！譬如剜豆，乾時錐刺，終不可著。煩惱堅硬，亦復如是，雖一日夜，繫心不散，難可調伏。又如家犬，不畏於人，山林野鹿，見人怖走。瞋恚難去，如守家狗；慈心易失，如彼野鹿。是故此心難可調伏，以是義故，不名大慈。復次善男子！譬如畫石，其文常在。畫水速滅，勢不久住。瞋如畫石，諸善根本如彼畫水，是故此心難得調伏。如大火聚，其明久住；電光之明不得暫停。瞋如火聚，慈如電明，是故此心難得調伏，以是義故，不名大慈。",
+    "chunk_ids": [
+      "T0374_015-c0010"
+    ],
+    "quote": "未修善法，是故不能於一日中，調伏其心。",
+    "topic": "自我成长",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "改变长期习惯时，为什么要给自己时间？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「未修善法，是故不能於一日中，調伏其心。」\n【現代生活參考】长期形成的习惯通常需要反复练习。设小目标、记录变化并持续调整，比要求自己一夜之间彻底改变更可行。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s31-q2",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_015.txt",
+    "source_sha256": "342a869619667dc50da51694bb7c3430fd338b2692a571a3c1a07cbe32d950e5",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 32,
+    "source_passage": "「善男子！以難成故，不名大慈。何以故？久於過去無量劫中，多集煩惱，未修善法，是故不能於一日中，調伏其心。善男子！譬如剜豆，乾時錐刺，終不可著。煩惱堅硬，亦復如是，雖一日夜，繫心不散，難可調伏。又如家犬，不畏於人，山林野鹿，見人怖走。瞋恚難去，如守家狗；慈心易失，如彼野鹿。是故此心難可調伏，以是義故，不名大慈。復次善男子！譬如畫石，其文常在。畫水速滅，勢不久住。瞋如畫石，諸善根本如彼畫水，是故此心難得調伏。如大火聚，其明久住；電光之明不得暫停。瞋如火聚，慈如電明，是故此心難得調伏，以是義故，不名大慈。",
+    "chunk_ids": [
+      "T0374_015-c0010"
+    ],
+    "quote": "未修善法，是故不能於一日中，調伏其心。",
+    "topic": "自我成长",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "偶尔退步后怎么继续？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「未修善法，是故不能於一日中，調伏其心。」\n【現代生活參考】把退步当作信息，找出触发因素，恢复下一个小步骤；如有明显痛苦或功能受损可寻求专业帮助。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s32-q1",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_002.txt",
+    "source_sha256": "7a8cb77854bf702c5f69df50531f01f59dc22f261507b7a875d89d5be3c9c7f3",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 41,
+    "source_passage": "爾時世尊告諸比丘：「汝等比丘，莫如凡夫、諸天人等，愁憂啼哭；當勤精進，繫心正念。」時諸天人、阿修羅等，聞佛所說，止不啼哭。猶如有人，殯喪子已止不啼哭。",
+    "chunk_ids": [
+      "T0374_002-c0014"
+    ],
+    "quote": "當勤精進，繫心正念。",
+    "topic": "家庭相处",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "失去亲人后，怎样兼顾哀伤和日常生活？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「當勤精進，繫心正念。」\n【現代生活參考】允许自己感受哀伤，也可以在准备好时做一件眼前的小事，并向可信任的人寻求陪伴。经文的情境不应被用来否定悲伤。"
+      }
+    ]
+  },
+  {
+    "id": "T0374-s32-q2",
+    "work": "T0374",
+    "title": "大般涅槃經",
+    "source_file": "T0374_002.txt",
+    "source_sha256": "7a8cb77854bf702c5f69df50531f01f59dc22f261507b7a875d89d5be3c9c7f3",
+    "source_url": "https://cbdata.dila.edu.tw/stable/download/text/T0374.txt.zip",
+    "paragraph": 41,
+    "source_passage": "爾時世尊告諸比丘：「汝等比丘，莫如凡夫、諸天人等，愁憂啼哭；當勤精進，繫心正念。」時諸天人、阿修羅等，聞佛所說，止不啼哭。猶如有人，殯喪子已止不啼哭。",
+    "chunk_ids": [
+      "T0374_002-c0014"
+    ],
+    "quote": "當勤精進，繫心正念。",
+    "topic": "家庭相处",
+    "authorship": "AI-authored; literal quote verified; no human/expert review; modern application clearly labeled.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "亲人去世后哀伤很久没有减轻，怎么办？"
+      },
+      {
+        "role": "assistant",
+        "content": "【經文依據】《大般涅槃經》：「當勤精進，繫心正念。」\n【現代生活參考】不要责备自己。可以寻求亲友支持或专业心理帮助；这句经文不能替代心理健康照护。"
+      }
+    ]
+  }
+]

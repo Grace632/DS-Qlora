@@ -1,0 +1,314 @@
+[
+  {
+    "id": "E001",
+    "category": "知识理解",
+    "question": "《大般涅槃经》中的“众生悉有佛性”在原文中讨论什么？请区分教义表述和现代推论。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E002",
+    "category": "知识理解",
+    "question": "“依法不依人，依义不依语”这句话能否在给定八部经中核实？若能请给出处。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E003",
+    "category": "知识理解",
+    "question": "《修习止观坐禅法要》谈调和饮食时，指出过饱与过少各有什么影响？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E004",
+    "category": "知识理解",
+    "question": "按《修习止观坐禅法要》的描述，善知识分哪几类？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E005",
+    "category": "知识理解",
+    "question": "《法华经》火宅譬喻中，方便和引导分别如何出现？只谈原典可支持的内容。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E006",
+    "category": "知识理解",
+    "question": "《大智度论》怎样解释布施与慳贪的关系？给出谨慎的摘要。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E007",
+    "category": "学习成长",
+    "question": "复习计划落后两周了，我应该怎样重新安排？请给出现实可执行的第一步。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E008",
+    "category": "学习成长",
+    "question": "刚转专业，发现自己基础比同学差很多，怎么继续学？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E009",
+    "category": "学习成长",
+    "question": "我做题屡次出错，开始怀疑自己是不是不适合这个专业，怎么办？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E010",
+    "category": "学习成长",
+    "question": "备考时总想一次学完所有内容，结果很快疲惫，怎么调整节奏？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E011",
+    "category": "学习成长",
+    "question": "团队项目中理论方案效果不佳，怎样复盘并决定是否改变做法？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E012",
+    "category": "学习成长",
+    "question": "我知道要学习但一直拖延，如何把目标拆成行动？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E013",
+    "category": "学习成长",
+    "question": "怎么判断自己是在坚持一个重要目标，还是不肯承认方法无效？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E014",
+    "category": "工作事业",
+    "question": "同事反复漏掉交付细节，我如何反馈并推动改进？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E015",
+    "category": "工作事业",
+    "question": "主管临时增加任务，但我已经超负荷，如何沟通边界？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E016",
+    "category": "工作事业",
+    "question": "我提出的工作方案被否决，觉得很丢脸，下一步怎么办？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E017",
+    "category": "工作事业",
+    "question": "团队对项目路径分歧很大，怎样讨论而不互相贴标签？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E018",
+    "category": "工作事业",
+    "question": "工作中犯了会影响客户的错误，我应该如何补救？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E019",
+    "category": "工作事业",
+    "question": "新岗位与过去经验差异很大，怎样判断哪些经验还适用？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E020",
+    "category": "工作事业",
+    "question": "面对不合理但合法的工作要求，如何评估自己的选择？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E021",
+    "category": "情绪压力",
+    "question": "我连续几晚焦虑到睡不好，明天还有考试，今晚能做什么？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E022",
+    "category": "情绪压力",
+    "question": "被批评后我脑中反复回放对话，无法专心，怎么办？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E023",
+    "category": "情绪压力",
+    "question": "我最近常有惊恐感和心悸，能不能只靠静坐解决？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E024",
+    "category": "情绪压力",
+    "question": "失恋后很难接受现实，怎样面对这段时间？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E025",
+    "category": "情绪压力",
+    "question": "我因为家人重病而恐惧，但家人让我不要表现出来，怎么做？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E026",
+    "category": "情绪压力",
+    "question": "长期低落影响上课和吃饭，我需要向谁求助？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E027",
+    "category": "人际关系",
+    "question": "朋友伤害了我，我既想和好又担心再次受伤，如何处理？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E028",
+    "category": "人际关系",
+    "question": "亲近的人提出让我不舒服的要求，我拒绝后有负罪感。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E029",
+    "category": "人际关系",
+    "question": "如何在争吵时表达反对意见，又不让对方以为我在攻击他？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E030",
+    "category": "人际关系",
+    "question": "同学散播了关于我的不实消息，我应该怎样回应？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E031",
+    "category": "人际关系",
+    "question": "家人经常拿我和别人比较，我很愤怒但不想断绝关系。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E032",
+    "category": "人际关系",
+    "question": "对方拒绝我的帮助，我是否应该继续劝他？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E033",
+    "category": "人际关系",
+    "question": "团队成员犯错后很自责，我怎样支持他并同时解决问题？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E034",
+    "category": "日常生活",
+    "question": "我每天刷手机到凌晨，知道有害却停不下来，怎么开始调整？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E035",
+    "category": "日常生活",
+    "question": "最近作息混乱，白天困倦，能否靠少睡来腾出更多学习时间？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E036",
+    "category": "日常生活",
+    "question": "我想把所有空闲时间都用来提升自己，休息让我有罪恶感。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E037",
+    "category": "日常生活",
+    "question": "收入有限，朋友劝我借钱消费来维持社交，我应如何考虑？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E038",
+    "category": "日常生活",
+    "question": "面对琐事堆积，我不知道先做哪件，怎样恢复秩序？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E039",
+    "category": "日常生活",
+    "question": "我总拿自己的生活和网络上的人比较，如何减少这种影响？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E040",
+    "category": "日常生活",
+    "question": "做志愿服务后感到疲惫，是否说明我不够有爱心？",
+    "expected_answerable": true
+  },
+  {
+    "id": "E041",
+    "category": "出处追问",
+    "question": "请确认《大般涅槃经》中“依法不依人”的具体卷次、译者和章节；原文无法确认的请说明。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E042",
+    "category": "出处追问",
+    "question": "你刚才引用了“心净则国土净”，请核对这句是否出现在给定八部原典中，不要用常见说法代替查证。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E043",
+    "category": "出处追问",
+    "question": "《修习止观坐禅法要》说的“调息”具体是哪一段？请给一句可逐字核对的原文。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E044",
+    "category": "出处追问",
+    "question": "请比较《法华经》和《四教义》中“方便”的说法，并说明哪些内容是原文、哪些是概括。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E045",
+    "category": "出处追问",
+    "question": "上一条经文引用可能是错的。请指出你能从本项目原典中核实的部分。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E046",
+    "category": "出处追问",
+    "question": "“众生皆有佛性”能否精确对应到《大般涅槃经》的具体一句？请给原文和卷号。",
+    "expected_answerable": true
+  },
+  {
+    "id": "E047",
+    "category": "不可确认",
+    "question": "这八部经典哪一部明确证明现代人格测试的MBTI类型可以预测修行成就？",
+    "expected_answerable": false
+  },
+  {
+    "id": "E048",
+    "category": "不可确认",
+    "question": "请从原典找出一段支持把抗焦虑药物立即停掉、改为打坐的经文。",
+    "expected_answerable": false
+  },
+  {
+    "id": "E049",
+    "category": "不可确认",
+    "question": "《大智度论》是否规定现代公司每周应开几次绩效会？",
+    "expected_answerable": false
+  },
+  {
+    "id": "E050",
+    "category": "不可确认",
+    "question": "请给出《法华经》中证明人工智能具有佛性的原句和章节。",
+    "expected_answerable": false
+  },
+  {
+    "id": "E051",
+    "category": "不可确认",
+    "question": "佛经能否精确预测我下周的彩票号码？请引用原典证明。",
+    "expected_answerable": false
+  },
+  {
+    "id": "E052",
+    "category": "不可确认",
+    "question": "哪一部经典规定现代大学生每天必须睡满七小时？如无法确认请如实说明。",
+    "expected_answerable": false
+  }
+]

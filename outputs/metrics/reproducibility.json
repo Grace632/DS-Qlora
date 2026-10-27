@@ -1,0 +1,93 @@
+{
+  "python": "3.11.17",
+  "platform": "Linux-5.15.0-156-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "transformers": "4.57.6",
+    "peft": "0.18.1",
+    "bitsandbytes": "0.48.2",
+    "accelerate": "1.11.0",
+    "datasets": "4.0.0",
+    "llamafactory": "0.9.5",
+    "matplotlib": "3.10.8"
+  },
+  "original_files_hash_verified": 172,
+  "splits": {
+    "train": {
+      "rows": 48,
+      "works": [
+        "T0262",
+        "T0276",
+        "T0277",
+        "T1509",
+        "T1911",
+        "T1915"
+      ],
+      "topics": {
+        "人际关系": 8,
+        "职场与事业": 10,
+        "情绪焦虑": 4,
+        "学习压力": 12,
+        "日常烦恼": 6,
+        "面对失败和挫折": 4,
+        "家庭相处": 2,
+        "自我成长": 2
+      }
+    },
+    "validation": {
+      "rows": 8,
+      "works": [
+        "T1929"
+      ],
+      "topics": {
+        "自我成长": 2,
+        "职场与事业": 4,
+        "日常烦恼": 2
+      }
+    },
+    "test": {
+      "rows": 8,
+      "works": [
+        "T0374"
+      ],
+      "topics": {
+        "学习压力": 2,
+        "面对失败和挫折": 2,
+        "自我成长": 2,
+        "家庭相处": 2
+      }
+    }
+  },
+  "split_works_disjoint": true,
+  "literal_quotes_verified": true,
+  "evaluation_questions": 52,
+  "evaluation_categories": {
+    "知识理解": 6,
+    "学习成长": 7,
+    "工作事业": 7,
+    "情绪压力": 6,
+    "人际关系": 7,
+    "日常生活": 7,
+    "出处追问": 6,
+    "不可确认": 6
+  },
+  "evaluation_question_exact_overlap_with_sft": 0,
+  "sha256": {
+    "data/sft/sft_train.json": "c8875e75b9cfc3b03f86268d5d676050c67d6e1b2ec810d74becbb4ef14dcfde",
+    "data/sft/sft_validation.json": "19de8b0e6a5f9fac40860e7275154cc2e3b340c04675cbbbc6081655959e2cde",
+    "data/sft/sft_test.json": "1de95000006641e8117a5de705b6367a137387acaf1261e2fb7b350958e022f1",
+    "data/evaluation/test_questions.json": "9efa740d4ff79053e084e1732cba7a6cb5e23574f67c1d0e00a50c31270b597e",
+    "configs/qlora_formal.yaml": "f2caf70aaa0ac4e01db5d78dc6bbcd6e2acf71f50314ce01d8c0a1db60449915",
+    "checkpoints/adapter_formal/adapter_config.json": "2442a16664d9558543090ea2bd5bfd5a61b62fb31ef70e51c3e695a5184158b6",
+    "checkpoints/adapter_formal/adapter_model.safetensors": "3b21d9bb4ebe61d6a1ae4bc740812979d65686174a31c96f6e869c5349414c88"
+  },
+  "limitations": [
+    "Exact question non-overlap does not establish semantic independence.",
+    "Quotes are literal source matches, not expert doctrinal review."
+  ],
+  "hardware": {
+    "gpu": "NVIDIA GeForce RTX 4090 D",
+    "gpu_total_mib": 24083,
+    "pytorch_cuda": "12.4"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "evaluation_input": "outputs/evaluation/2024211891.json",
+  "questions": 52,
+  "metrics_scope": "automatic lexical proxies only; no doctrinal correctness or human quality score",
+  "models": {
+    "base": {
+      "不可确认": {
+        "questions": 6,
+        "mean_answer_characters": 166.3,
+        "citation_marker_rate": 0.3333,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 6,
+        "unknown_abstention_marker_rate": 0.0
+      },
+      "人际关系": {
+        "questions": 7,
+        "mean_answer_characters": 183.4,
+        "citation_marker_rate": 0.2857,
+        "quoted_spans": 2,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "出处追问": {
+        "questions": 6,
+        "mean_answer_characters": 179.0,
+        "citation_marker_rate": 1.0,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "学习成长": {
+        "questions": 7,
+        "mean_answer_characters": 215.7,
+        "citation_marker_rate": 0.0,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "工作事业": {
+        "questions": 7,
+        "mean_answer_characters": 208.3,
+        "citation_marker_rate": 0.2857,
+        "quoted_spans": 1,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "情绪压力": {
+        "questions": 6,
+        "mean_answer_characters": 205.7,
+        "citation_marker_rate": 0.1667,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "日常生活": {
+        "questions": 7,
+        "mean_answer_characters": 161.0,
+        "citation_marker_rate": 0.1429,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "知识理解": {
+        "questions": 6,
+        "mean_answer_characters": 195.7,
+        "citation_marker_rate": 1.0,
+        "quoted_spans": 3,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "overall": {
+        "questions": 52,
+        "mean_answer_characters": 189.6,
+        "citation_marker_rate": 0.3846,
+        "quoted_spans": 6,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 6,
+        "unknown_abstention_marker_rate": 0.0
+      }
+    },
+    "qlora": {
+      "不可确认": {
+        "questions": 6,
+        "mean_answer_characters": 115.2,
+        "citation_marker_rate": 0.3333,
+        "quoted_spans": 1,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 6,
+        "unknown_abstention_marker_rate": 0.0
+      },
+      "人际关系": {
+        "questions": 7,
+        "mean_answer_characters": 164.7,
+        "citation_marker_rate": 0.1429,
+        "quoted_spans": 2,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "出处追问": {
+        "questions": 6,
+        "mean_answer_characters": 154.3,
+        "citation_marker_rate": 0.8333,
+        "quoted_spans": 1,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "学习成长": {
+        "questions": 7,
+        "mean_answer_characters": 217.9,
+        "citation_marker_rate": 0.0,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "工作事业": {
+        "questions": 7,
+        "mean_answer_characters": 202.4,
+        "citation_marker_rate": 0.2857,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "情绪压力": {
+        "questions": 6,
+        "mean_answer_characters": 208.8,
+        "citation_marker_rate": 0.1667,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "日常生活": {
+        "questions": 7,
+        "mean_answer_characters": 154.6,
+        "citation_marker_rate": 0.0,
+        "quoted_spans": 0,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": null,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "知识理解": {
+        "questions": 6,
+        "mean_answer_characters": 148.3,
+        "citation_marker_rate": 0.8333,
+        "quoted_spans": 1,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 0,
+        "unknown_abstention_marker_rate": null
+      },
+      "overall": {
+        "questions": 52,
+        "mean_answer_characters": 171.9,
+        "citation_marker_rate": 0.3077,
+        "quoted_spans": 5,
+        "exact_source_match_spans": 0,
+        "exact_source_match_rate": 0.0,
+        "unknown_questions": 6,
+        "unknown_abstention_marker_rate": 0.0
+      }
+    }
+  }
+}
